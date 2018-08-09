@@ -111,7 +111,7 @@
 										<li> <a href="gallery.html">Gallery</a>
 										</li>
 										<!-- contacts -->
-										<li class="active"> <a href="contact-us.html">Contact</a>
+										<li class="active"> <a href="contact-us.php">Contact</a>
 										</li>
 										<!-- eof contacts -->
 									</ul>
@@ -153,7 +153,7 @@
 						<div class="col-xs-12 col-md-6">
 							<h3>Get in Touch</h3>
 							<div class="toppadding_15"></div>
-							<form class="contact-form row" method="post" action="http://webdesign-finder.com/html/qtyler/">
+							<form class="contact-form row" method="post" action="email.php">
 								<div class="col-xs-12">
 									<div class="form-group bottommargin_0"> <label for="name">Full Name</label> <input type="text" aria-required="true" size="30" value="" name="name" id="name" class="form-control with_icon" placeholder="Full Name"> <i class="qtyler-user grey"></i> </div>
 								</div>
