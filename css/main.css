@@ -11911,7 +11911,7 @@ body.active-side-header.slide-right .page_header_side {
 
 @media (min-width: 768px) {
 	.intro_section .hero-text {
-		font-size: 100px;
+		font-size: 50px;
 	}
 
 	.intro_section .small-text.big-spacing {
